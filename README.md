@@ -25,6 +25,6 @@ This project has made me progress on numerous aspects of software enginnering su
 
 - [] Animated human body SVG to show numerous muscles description and a list of exercises able to develop it
 - [] Personnal training
-- [] Back-end remake that allows users to save their progress and retrieve it by registering
+- [] Allows users to save their progress and retrieve it by registering
 - [] Allows users to share their workout between them
 
