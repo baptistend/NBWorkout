@@ -19,6 +19,7 @@ This project has made me progress on numerous aspects of software enginnering su
 - Firebase
 
 ### Demo
+![11_11(1)](https://github.com/baptistend/NBWorkout/assets/64712020/411f3e15-990c-4f26-9104-13199b76f13b)
 
 
 ### To be continued ...
